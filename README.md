@@ -5,6 +5,20 @@ Use this configuration to create an EKS cluster on AWS.
 <br>
 <br>
 
+# Contents
+
+__1 Usage__
+- 1.1 Clone
+- 1.2 Init
+- 1.3 Plan
+- 1.4 Apply
+- 1.5 Destroy
+
+__2 Execution plan__
+
+<br>
+<br>
+
 # 1 Usage
 
 ### 1.1 Clone
