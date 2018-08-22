@@ -49,6 +49,8 @@ __Note:__ It takes about 10 minutes to destroy the resources.
 # Execution plan
 
 ```
+------------------------------------------------------------------------
+
 An execution plan has been generated and is shown below.
 Resource actions are indicated with the following symbols:
   + create
@@ -344,4 +346,6 @@ Terraform will perform the following actions:
 
 
 Plan: 24 to add, 0 to change, 0 to destroy.
+
+------------------------------------------------------------------------
 ```
