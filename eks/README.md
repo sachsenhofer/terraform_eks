@@ -1,7 +1,24 @@
-# EKS Getting Started Guide Configuration
+# EKS Getting Started Configuration
 
-This is the full configuration from https://www.terraform.io/docs/providers/aws/guides/eks-getting-started.html
+<br>
+<br>
 
-See that guide for additional information.
+# Usage
 
-NOTE: This full configuration utilizes the [Terraform http provider](https://www.terraform.io/docs/providers/http/index.html) to call out to icanhazip.com to determine your local workstation external IP for easily configuring EC2 Security Group access to the Kubernetes master servers. Feel free to replace this as necessary.
+### 1. Plan
+
+```
+terraform plan
+```
+
+### 2. Apply
+
+```
+terraform apply
+```
+
+### 3. Destroy
+
+```
+terraform destroy
+```
