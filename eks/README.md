@@ -7,7 +7,17 @@ Use this configuration to create an EKS cluster on AWS.
 
 # Usage
 
-### 1. Plan
+### 1. Init
+
+Execute in terminal: 
+
+```
+terraform init
+```
+
+<br>
+
+### 2. Plan
 
 Execute in terminal: 
 
@@ -17,7 +27,7 @@ terraform plan
 
 <br>
 
-### 2. Apply
+### 3. Apply
 
 Execute in terminal: 
 
@@ -29,7 +39,7 @@ __Note:__ It takes about 10 minutes to create the resources.
 
 <br>
 
-### 3. Destroy
+### 4. Destroy
 
 Execute in terminal: 
 
@@ -37,4 +47,4 @@ Execute in terminal:
 terraform destroy
 ```
 
-__Note:__ It takes about 15 minutes to destroy the resources.
+__Note:__ It takes about 20 minutes to destroy the resources.
