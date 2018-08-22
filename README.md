@@ -15,8 +15,6 @@ Execute in terminal:
 terraform init
 ```
 
-<br>
- 
 ### 2. Plan
 
 Execute in terminal: 
@@ -24,8 +22,6 @@ Execute in terminal:
 ```
 terraform plan
 ```
-
-<br>
 
 ### 3. Apply
 
@@ -36,8 +32,6 @@ terraform apply
 ```
 
 __Note:__ It takes about 15 minutes to create the resources.
-
-<br>
 
 ### 4. Destroy
 
