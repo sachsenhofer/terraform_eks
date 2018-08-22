@@ -7,14 +7,21 @@ Use this configuration to create an EKS cluster on AWS.
 
 # Contents
 
-### 1 Usage
-- 1.1 Clone
-- 1.2 Init
-- 1.3 Plan
-- 1.4 Apply
-- 1.5 Destroy
+## 1 Usage
 
-### 2 Execution plan
+### 1.1 Clone
+
+### 1.2 Init
+
+### 1.3 Plan
+
+### 1.4 Apply
+
+### 1.5 Destroy
+
+## 2 Execution plan
+
+### 2.1 Execution plan
 
 <br>
 <br>
@@ -69,6 +76,8 @@ __Note:__ It takes about 10 minutes to destroy the resources.
 <br>
 
 # 2 Execution plan
+
+### 2.1 Execution plan
 
 ```
 ------------------------------------------------------------------------
