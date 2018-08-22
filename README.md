@@ -31,7 +31,7 @@ Execute in terminal:
 terraform apply
 ```
 
-__Note:__ It takes about 15 minutes to create the resources.
+__Note:__ It takes about 10 minutes to create the resources.
 
 ### 4. Destroy
 
