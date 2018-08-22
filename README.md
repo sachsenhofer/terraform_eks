@@ -37,4 +37,4 @@ Execute in terminal:
 terraform destroy
 ```
 
-__Note:__ It takes about 15 minutes to destroy the resources.
+__Note:__ It takes about 20 minutes to destroy the resources.
