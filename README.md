@@ -12,7 +12,7 @@ Use this configuration to create an EKS cluster on AWS.
 Execute in terminal: 
 
 ```
-git clone https://github.com/sachsenhofer/terraform-eks.git
+git clone https://github.com/sachsenhofer/terraform_eks.git
 ```
 
 ### 1.2 Init
